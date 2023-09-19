@@ -1,4 +1,4 @@
-# Sheety Bot
+# Sheety Discord Functions
 
 A Discord bot (webhook) to track Sheet Head activity on the Pooled NFT protocol and post updates to Discord.
 
